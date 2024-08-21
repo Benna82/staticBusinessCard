@@ -1,13 +1,30 @@
 
 body {
     margin: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: "aller", sans-seri;
+    /* background: linear-gradient(teal, whitesmoke); */
+    background: teal;
+}
+
+.division {
+    margin-bottom: 100px;
+}
+
+.division h1 {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    padding-bottom: 20px;
+    margin: 5px 0 25px 0;
+    padding: 5px 10px;
 }
 
 .card-holder {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    justify-items: center;
 }
 
 .card {
@@ -15,6 +32,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     text-align: center;
+    align-items: center;
     background: teal;
     color: whitesmoke;
     width: 500px;
@@ -22,8 +40,8 @@ body {
     border-radius: 8px;
     padding: 10px;
     margin-bottom: 20px;
-    width: 300px;
-    text-shadow: 0px 0px 5px black;
+    width: 200px;
+    text-shadow: 0px 5px 5px black;
 }
 
 .card:hover {
