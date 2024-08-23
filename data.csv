@@ -1,0 +1,62 @@
+img,name,company,division,position,location,
+images/DavidJ.jpg,David Joosten,Premier FMCG,IT Management,IT Executive,Midrand, South Africa
+images/Theo.jpg,Theo le Roux,Premier FMCG,IT Business Services,IT HOD,Pretoria, South Africa
+images/DavidL.jpg,David Lang,Premier FMCG,IT Business Services,IT Team Lead - Business Services,Klerksdorp, South Africa
+images/Joseph.jpg,Joseph Kapinda,Premier FMCG,IT Business Services,IT Consultant,Midrand, South Africa
+images/Simon.jpg,Simon Moremi,Premier FMCG,IT Business Services,IT Consultant,Midrand, South Africa
+images/Wilma.jpg,Wilma van Eck,Premier FMCG,IT Core Services,IT HOD,Kempton Park, South Africa
+images/Jannie.jpg,Jannie Lourens,Premier FMCG,IT Core Services,IT Team Lead - Core Services,Kempton Park, South Africa
+images/Ilse.jpg,Ilse Erwee,Premier FMCG,IT Core Services,IT Team Lead - Core Services (BI),George, South Africa
+images/Nokuphiwa.jpg,Nokuphiwa Kongela,Premier FMCG,IT Core Services,Team Lead - Core Services (HR),Midrand, South Africa
+images/Gugu.jpg,Gugu Khoza,Premier FMCG,IT Core Services,IT Consultant,Midrand, South Africa
+images/Oscar.jpg,Oscar Masingi,Premier FMCG,IT Core Services,IT Consultant,Midrand, South Africa
+images/Vongani.jpg,Vongani Mkansi,Premier FMCG,IT Core Services,IT Consultant,Midrand, South Africa
+images/Lisbeth.jpg,Lisbeth Ramashala,Premier FMCG,IT Core Services,IT Consultant (BI),Midrand, South Africa
+images/Bester.jpg,Bester Phiri,Premier FMCG,IT Core Services,IT Consultant (HR),Midrand, South Africa
+images/Anelda.jpg,Anelda de Leeuw,Premier FMCG,IT Core Services,IT Projects Administrator,Pretoria, South Africa
+images/Beuhla.jpg,Beuhla De Villers,Premier FMCG,IT Core Services,IT Senior Consultant,Midrand, South Africa
+images/Mick.jpg,Mick Bota,Premier FMCG,IT Core Services,IT Senior Consultant,Midrand, South Africa
+images/Hennie.jpg,Hennie Hanekom,Premier FMCG,IT Core Services,IT Senior Consultant (BI),Ceturion, South Africa
+images/Jako.jpg,Jako Diedericks,Premier FMCG,IT Operational Execution,IT HOD,Cape Town, South Africa
+images/Rodney.jpg,Rodney Maziwisa,Premier FMCG,IT Operational Execution,IT Team Lead - Operational Execution,Pretoria, South Africa
+images/Boitumelo.jpg,Boitumelo Rachel Molefe,Premier FMCG,IT Operational Execution,IT Consultant,Midrand, South Africa
+images/Rethabile.jpg,Rethabile Kale,Premier FMCG,IT Operational Execution,IT Consultant,Midrand, South Africa
+images/Setumo.jpg,Setumo Baloyi,Premier FMCG,IT Operational Execution,IT Consultant,Midrand, South Africa
+images/WillemB.jpg,Willem Boshoff,Premier FMCG,IT Operational Execution,IT Consultant,Midrand, South Africa
+images/Calam.jpg,Calam Togher,Premier FMCG,IT Platform and Development,IT HOD,Midrand, South Africa
+images/Morne.jpg,Morne Cunniff,Premier FMCG,IT Platform and Development,IT Team Lead - IT Platform,Springs, South Africa
+images/Benjamin.jpg,Benjamin van Staden,Premier FMCG,IT Platform and Development,IT Team Lead - Development,Potchefstroom, South Africa
+images/Bradley.jpg,Bradley Sekoba,Premier FMCG,IT Platform and Development,IT Database Administrator,Midrand, South Africa
+images/Shakeer.jpg,Shakeer Mohammed Hassim,Premier FMCG,IT Platform and Development,IT Database Administrator,Buccleuch, South Africa
+images/Ninu.jpg,Ninu Van Der Merwe,Premier FMCG,IT Platform and Development,IT Platform Engineer,Midrand, South Africa
+images/Dirk.jpg,Dirk Swart,Premier FMCG,IT Platform and Development,IT Security Enigneer,Kempton Park, South Africa
+images/Nicholas.jpg,Nicholas Madamombe,Premier FMCG,IT Platform and Development,IT Web Developer,Ceturion, South Africa
+images/Deon.jpg,Deon Dalebout,Braintree,IT Platform and Development,Contractor,Klerksdorp, South Africa
+images/Charles.jpg,Charles Verwey,Premier FMCG,IT Product Bakeries,IT HOD,Ceturion, South Africa
+images/Lesang.jpg,Lesang Masilo,Premier FMCG,IT Product Bakeries,IT Team Lead - Product Bakeries,Midrand, South Africa
+images/Gavin.jpg,Gavin Oosthuizen,Premier FMCG,IT Scrum,IT HOD,Kempton Park, South Africa
+images/Asha.jpg,Asha Moodley,Premier FMCG,IT Scrum,IT Team Lead - Scrum,Midrand, South Africa
+images/Mario.jpg,Mario Mendes,Premier FMCG,IT Service Delivery,IT HOD,Midrand, South Africa
+images/Gerrit.jpg,Gerrit Coetsee,Premier FMCG,IT Service Delivery,IT Team Lead - Network,Midrand, South Africa
+images/Chantell.jpg,Chantell Salgado,Premier FMCG,IT Service Delivery,IT Team Lead - Technical Inland,Midrand, South Africa
+images/Collen.jpg,Collen Reggy Mawani,Premier FMCG,IT Service Delivery,IT Field Technician,Cape Town, South Africa
+images/Edner.jpg,Edner Naene,Premier FMCG,IT Service Delivery,IT Field Technician,Maputo, Mozambique
+images/Felix.jpg,Felix Khanyile,Premier FMCG,IT Service Delivery,IT Field Technician,Midrand, South Africa
+images/Junior.jpg,Junior Phiri,Premier FMCG,IT Service Delivery,IT Field Technician,Manzini, eSwatini
+images/Kevin.jpg,Kevin Mahalingam Valaitham,Premier FMCG,IT Service Delivery,IT Field Technician,Durban, South Africa
+images/Nevash.jpg,Nevash Singh,Premier FMCG,IT Service Delivery,IT Field Technician,Midrand, South Africa
+images/Stephen.jpg,Stephen Hugh Boyd,Premier FMCG,IT Service Delivery,IT Field Technician,Pinetown, South Africa
+images/Stiven.jpg,Stiven Mendes,Premier FMCG,IT Service Delivery,IT Field Technician,Maputo, Mozambique
+images/Swithin.jpg,Swithin Smith,Premier FMCG,IT Service Delivery,IT Field Technician,Midrand, South Africa
+images/Travis.jpg,Travis Naude,Premier FMCG,IT Service Delivery,IT Field Technician,East London, South Africa
+images/Vhahangwele.jpg,Vhahangwele Nwashe,Premier FMCG,IT Service Delivery,IT Field Technician,Midrand, South Africa
+images/Vuledzani.jpg,Vuledzani Victor Tshamano,Premier FMCG,IT Service Delivery,IT Field Technician,Midrand, South Africa
+images/Kagiso.jpg,Kagiso Tlhomelang,Premier FMCG,IT Service Delivery (App Support),IT HOD,Midrand, South Africa
+images/Bongekosi.jpg,Bongekosi Cele,Premier FMCG,IT Service Delivery (App Support),IT Intern,Midrand, South Africa
+images/Leon.jpg,Leon Msiza,Premier FMCG,IT Service Delivery (App Support),IT Intern,Midrand, South Africa
+images/Prince.jpg,Prince Mafa,Premier FMCG,IT Service Delivery (App Support),IT Intern,Midrand, South Africa
+images/Lloyd.jpg,Lloyd Muchedzi,Premier FMCG,IT Tender and Procurement,IT HOD,Midrand, South Africa
+images/WillemV.jpg,Willem van Burick,Premier FMCG,IT Tender and Procurement,IT Team Lead - Tender and Procurement,Kempton Park, South Africa
+images/Paul.jpg,Paul Tshabangu,Premier FMCG,IT Tender and Procurement,IT Consultant,Midrand, South Africa
+images/Ashli.jpg,Ashli Gordon,Premier FMCG,IT Tender and Procurement,IT Senior Consultant,Midrand, South Africa
+images/Wasa.jpg,Wasa Chundu,Premier FMCG,IT Tender and Procurement,IT Senior Consultant,Pretoria, South Africa

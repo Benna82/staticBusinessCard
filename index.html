@@ -4,115 +4,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <link rel="stylesheet" href="styles.css">
-    <title>Profile Cards</title>
+    <title>Premier FMCG Business Cards</title>
 </head>
 <body>
+    <div id="page-header">Premier FMCG IT</div>
+    <div class="division">
+        <h1>IT Management</h1>    
+        <div class="card-holder" id="it-management"></div>
+    </div>
+    <div class="division">
+        <h1>IT Business Services</h1>    
+        <div class="card-holder" id="it-business-services"></div>
+    </div>
+    <div class="division">
+        <h1>IT Core Services</h1>    
+        <div class="card-holder" id="it-core-services"></div>
+    </div>
+    <div class="division">
+        <h1>IT Operational Execution</h1>    
+        <div class="card-holder" id="it-operational-execution"></div>
+    </div>
     <div class="division">
         <h1>IT Platform and Development</h1>    
-        <div class="card-holder">
-            <div class="card">
-                <img class="avatar" src="images/Calam.jpg" alt="Calam">
-                <h3>Calam Togher</h3>
-                <h2>Premier FMCG</h2>
-                <p>HOD</p>
-                <h4>Edenvale, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Morne.jpg" alt="Morne">
-                <h3>Morne Cunnif</h3>
-                <h2>Premier FMCG</h2>
-                <p>Team Lead - Platform</p>
-                <h4>Springs, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Dirk.jpg" alt="Dirk">
-                <h3>Dirk Swart</h3>
-                <h2>Premier FMCG</h2>
-                <p>Security Engineer</p>
-                <h4>Edenvale, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Bradley.jpg" alt="Bradley">
-                <h3>Bradley Sekoba</h3>
-                <h2>Premier FMCG</h2>
-                <p>Database Administrator</p>
-                <h4>Midrand, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Shakeer.jpeg" alt=" Shakeer">
-                <h3>Shakeer Hassim</h3>
-                <h2>Premier FMCG</h2>
-                <p>Database Administrator</p>
-                <h4>Midrand, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/benjamin.jpg" alt="Benjamin">
-                <h3>Benjamin van Staden</h3>
-                <h2>Premier FMCG</h2>
-                <p>Team Lead - Development</p>
-                <h4>Potchefstroom, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Nicholas.jpg" alt="Nicholas">
-                <h3>Nicholas Madamombe</h3>
-                <h2>Premier FMCG</h2>
-                <p>Web Developer</p>
-                <h4>Centurion, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Prince.jpg" alt="Prince">
-                <h3>Prince Mafa</h3>
-                <h2>Premier FMCG</h2>
-                <p>Intern Developer</p>
-                <h4>Midrand, South Africa</h4>
-            </div>
-        </div>
+        <div class="card-holder" id="it-platform-Development"></div>
     </div>
     <div class="division">
-        <h1>IT Scrum</h1>
-        <div class="card-holder">
-            <div class="card">
-                <img class="avatar" src="images/Gavin.jpg" alt="Gavin">
-                <h3>Gavin Oosthuizen</h3>
-                <h2>Premier FMCG</h2>
-                <p>HOD</p>
-                <h4>Kempton Park, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Asha.jpg" alt="Asha">
-                <h3>Asha Moodley</h3>
-                <h2>Premier FMCG</h2>
-                <p>Scrum Lead</p>
-                <h4>Midrand, South Africa</h4>
-            </div>
-        </div>
+        <h1>IT Product Bakeries</h1>    
+        <div class="card-holder" id="it-product-bakeries"></div>
     </div>
-    <!-- <div class="division">
-        <h1>IT Development</h1>
-        <div class="card-holder">
-            <div class="card">
-                <img class="avatar" src="images/benjamin.jpg" alt="Benjamin">
-                <h3>Benjamin van Staden</h3>
-                <h2>Premier FMCG</h2>
-                <p>IT Development: Team Lead</p>
-                <h4>Potchefstroom, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Nicholas.jpg" alt="Nicholas">
-                <h3>Nicholas Madamombe</h3>
-                <h2>Premier FMCG</h2>
-                <p>IT Development: Web Developer</p>
-                <h4>Centurion, South Africa</h4>
-            </div>
-            <div class="card">
-                <img class="avatar" src="images/Prince.jpg" alt="Prince">
-                <h3>Prince Mafa</h3>
-                <h2>Premier FMCG</h2>
-                <p>IT Development: Intern Developer</p>
-                <h4>Centurion, South Africa</h4>
-            </div>
-        </div>
-    </div> -->
+    <div class="division">
+        <h1>IT Scrum</h1>    
+        <div class="card-holder" id="it-scrum"></div>
+    </div>
+    <div class="division">
+        <h1>IT Service Delivery</h1>    
+        <div class="card-holder" id="it-service-delivery"></div>
+    </div>
+    <div class="division">
+        <h1>IT Service Delivery (App Support)</h1>    
+        <div class="card-holder" id="it-service-delivery-app"></div>
+    </div>
+    <div class="division">
+        <h1>IT Tender and Procurement</h1>    
+        <div class="card-holder" id="it-tender-procurement"></div>
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>

@@ -7,23 +7,37 @@ body {
     background: teal;
 }
 
+#page-header {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+
 .division {
     margin-bottom: 100px;
 }
 
-.division h1 {
+.division {
     text-align: center;
+
+}
+
+.division h1 {
+    display: inline-block;
+    background: teal;
     color: black;
     font-size: 50px;
     padding-bottom: 20px;
-    margin: 5px 0 25px 0;
     padding: 5px 10px;
+    border-radius: 10px;
+    margin: 5px 0 10px 0;
 }
 
 .card-holder {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
+    gap:20px;
     justify-items: center;
 }
 
@@ -33,7 +47,6 @@ body {
     justify-content: space-around;
     text-align: center;
     align-items: center;
-    background: teal;
     color: whitesmoke;
     width: 500px;
     border: 3px solid black;
@@ -45,7 +58,9 @@ body {
 }
 
 .card:hover {
-    background-color: rgb(9, 174, 174);
+    /* background-color: rgb(9, 174, 174); */
+    background: linear-gradient(teal,rgb(107, 215, 215));
+    transform: scale(1.3);
 }
 
 .avatar {
@@ -57,4 +72,13 @@ body {
 
 .card h3, .card h2, .card p, .card h4 {
     margin: 5px 0;
+}
+
+/* .division h1:hover {
+    background: rgb(124, 176, 176);
+    transition: all 1.0s ease;
+} */
+
+.division h1:hover {
+    transform: scale(1.3);
 }
